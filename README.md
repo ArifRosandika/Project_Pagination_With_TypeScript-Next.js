@@ -136,15 +136,7 @@ You can deploy easily on **[Vercel](https://vercel.com/)**:
 
 ---
 
-## 📸 Preview
-
-(Contact list with search & pagination)
-*(insert screenshot here)*
-
----
-
 ## 📜 License
 
 This project is licensed under the MIT License.
 Feel free to use and modify for your own projects.
-
